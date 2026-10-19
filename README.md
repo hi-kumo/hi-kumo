@@ -20,6 +20,6 @@ Powered by [Claude](https://www.anthropic.com/claude) from Anthropic.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 #### 💬 Get in Touch:
-Kumo is built and maintained by Bintang Citra Kusumaatmaja.
+Kumo is built and maintained by Bintang.
 - [Instagram](https://instagram.com/kusumachan404)
 - [LinkedIn](https://www.linkedin.com/in/bintang-citra-kusumaatmaja)
