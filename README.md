@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kumo-mark-02-color.png" alt="Kumo" width="96" />
+<img src="./kumo-mark-02-color.jpg" alt="Kumo" width="96" />
 
 # kumo
 
